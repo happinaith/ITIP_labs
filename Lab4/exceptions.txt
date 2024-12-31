@@ -1,0 +1,2 @@
+Exception: CustomAge$CustomAgeException - Недопустимый возраст: 155
+Exception: CustomAge$CustomAgeException - Недопустимый возраст: 66666
